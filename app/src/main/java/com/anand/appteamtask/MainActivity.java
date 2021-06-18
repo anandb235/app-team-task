@@ -1,4 +1,4 @@
-package com.anand.appteaminterview;
+package com.anand.appteamtask;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
